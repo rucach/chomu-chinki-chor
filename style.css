@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/849/553/original/modern-gold-background-free-vector.jpg");
+    background-size: cover;
+}
+
+.heading{
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+
+canvas{
+    border-style: groove;
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 10px;
+}
